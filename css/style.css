@@ -1,0 +1,353 @@
+
+.menu_style{
+ background-color: #303030;
+
+}
+.menu_style ul{
+	
+}
+.menu_style ul li{
+	line-height: 30px;
+	list-style: none;
+	border-bottom: 1px dotted white;
+}
+.menu_style ul li a{
+
+text-decoration: none;
+display: block;
+font-size: 22px;
+font-family: Times New Roman;
+color: yellowgreen;
+line-height: 40px;
+
+}
+.menu_style ul :hover{
+	color:gray;
+	
+
+}
+.ff{color:white;}
+.chk{
+text-align: center;
+background: #222222;
+color: gray;
+font-family: times new roman;
+font-size: 30px;
+	}
+.Wel_msg{
+color: red;
+font-family: times new roman;
+font-size: 86px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px black;
+margin-top: 100px;
+}
+.form_width{
+	width: 500px;
+}
+.error{
+	color: red;
+	font-size: 20px;
+}
+.success{
+color: green;
+	font-size: 20px;	
+}
+
+
+
+.add_book {
+  border-radius: 21px;
+  color: windowtext;
+  font-size: 63px;
+  height: 52px;
+  margin-top: 394px;
+  padding: 20px 11px 90px 17px;
+  width: 373px;
+}
+
+
+.book_list {
+  border-radius: 21px;
+  font-size: 63px;
+  height: 52px;
+  margin-left: -62px;
+  padding: 18px 48px 90px 17px;
+  width: 609px;
+
+  color: windowtext;
+}
+
+
+.given_take {
+  border-radius: 21px;
+  font-size: 63px;
+  height: 52px;
+  margin-top: 201px;
+  padding: 14px 18px 92px 16px;
+  width: 337px;
+  color: windowtext;
+}
+
+.lib_image {
+border: 2px dotted black;
+border-radius: 10px;
+height: 177px;
+margin-left: 744px;
+margin-top: -141px;
+width: 174px;
+}
+
+.lib_text{
+font-size: 32px;
+margin-top: -21px;
+}
+
+.lib_card{
+margin-left: -3px;
+margin-top: -63px;
+text-align: center;
+}
+
+
+.sl{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+width:90px;
+}
+.bn{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+width: 175px;
+}
+.wn{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+width: 170px;
+}
+.pr{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+width: 155px;
+}
+.gd{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+width: 170px;
+}
+.th{
+color: green;
+font-family: times new roman;
+border:2px solid black;
+}
+.act{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+width: 150px;
+}
+td{
+font-family: time new roman;
+font-style: italic;
+text-align: center;
+text-shadow: 9px 2px 6px grey;
+
+}
+.thg_1{
+color: green;
+font-family: times new roman;
+font-size: 45px;
+margin-top: 90px;
+text-align: center;
+}
+
+.thg_2{
+  color: green;
+font-size: 30px;
+margin-top:-12px;
+text-align: center;
+font-family: times new roman;
+}
+.lib_image_new img {
+border: 6px ridge black;
+border-radius: 18px;
+float: right;
+height: 215px;
+margin-bottom: 40px;
+margin-right: 20px;
+margin-top: 48px;
+width: 200px;
+}
+
+.lib{
+background: gainsboro none repeat scroll 0 0;
+border-radius: 30px;
+color: green;
+font-family: times new roman;
+font-size: 42px;
+margin-left: 392px;
+margin-top: -12px;
+text-align: center;
+width: 280px;
+}
+
+.lib_image_new{}
+
+.s_name{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+margin-left: 20px;
+margin-top: 120px;
+}
+
+.dept{
+color: green;
+font-family: times new roman;
+margin-left: 520px;
+margin-top: -44px;
+font-size: 25px;
+}
+
+.semester{
+font-family: times new roman;
+color: green;
+font-size: 25px;
+margin-left: 20px;
+}
+
+.shift{
+color: green;
+font-family: times new roman;
+font-size: 25px;
+margin-left: 520px;
+margin-top: -44px;
+}
+.s_roll{
+  font-family: times new roman;
+  color: green;
+  font-size: 25px;
+  margin-left:20px;
+}
+.s_reg{
+color: green;
+font-family: times new roman;
+margin-left: 520px;
+margin-top: -44px;
+font-size: 25px;
+}
+
+.att_dept{
+font-family: times new roman;
+font-size: 25px;
+margin-left: 20px;
+margin-top: 62px;
+}
+
+.att_seme{
+    font-family: times new roman;
+font-size: 25px;
+margin-left: 20px;
+margin-top:10px;
+}
+
+.att_shift{
+    font-family: times new roman;
+font-size: 25px;
+margin-left: 20px;
+margin-top: 10px;
+}
+
+.att_sub{
+font-family: times new roman;
+font-size: 30px;
+margin-left: 20px;
+margin-top: -30px;
+text-align: center;
+color: green;
+font-style:italic;
+}
+
+.back_button{
+  margin-top: 40px;
+width: 70px;
+}
+
+.tab_att{
+  color: green;
+font-family: times new roman;
+font-size: 28px;
+}
+th{
+  text-align: center;
+}
+
+.update_button{
+font-family: times new roman;
+font-size: 17px;
+margin-bottom: 32px;
+margin-right: 16px;
+margin-top: -40px;
+padding: 10px;
+}
+
+.up_dt{
+color: green;
+font-family: times new roman;
+margin-left: 14px;
+}
+
+.up_sub{
+color: green;
+font-family: times new roman;
+margin-left: 13px;
+}
+.sub_code_result {
+  float: left;
+  margin-left: 421px;
+  margin-top: 0px;
+  margin-bottom: 21px;
+  font-size: 23px;
+  color: blue;
+  font-style: italic;
+}
+.roll_box{
+  font-size: 27px;
+font-style: normal;
+text-align: center;
+width: 83px;
+}
+.result_tbl{
+background: #ddd none repeat scroll 0 0;
+border: 1px solid;
+float: right;
+font-size: 26px;
+margin-right: 33px;
+margin-top: -155px;
+width: 300px;
+  
+}
